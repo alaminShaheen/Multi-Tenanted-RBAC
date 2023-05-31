@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1685272261249,
+      "tag": "0000_optimal_starfox",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1685272714975,
+      "tag": "0001_charming_corsair",
+      "breakpoints": false
+    }
+  ]
+}
